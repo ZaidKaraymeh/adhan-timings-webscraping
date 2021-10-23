@@ -7,7 +7,7 @@
 
 import collections
 
-import dateparser               # pip install dateparser
+import dateparser     
 import requests
 from bs4 import BeautifulSoup
 
